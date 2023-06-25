@@ -15,7 +15,7 @@ export const Experience = () => {
 const experience = [
   {
     title: "Generali",
-    position: "Senior Java Developer / Technical Architect",
+    position: "Senior Java Developer / IT Architect",
     time: "Jan 2023 - Present",
     location: "Trieste, Italy",
     description:

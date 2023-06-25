@@ -18,7 +18,7 @@ export const Hero = () => {
           </Reveal>
           <Reveal>
             <h2 className={styles.subTitle}>
-              I&apos;m a <span>Technical Architect</span>
+              I&apos;m a <span>IT Architect</span>
             </h2>
           </Reveal>
           <Reveal>
@@ -44,7 +44,7 @@ export const Hero = () => {
             className={styles.profile}
             src={Profile}
             priority
-            alt="Sumeet Shetty | Technical Architect"
+            alt="Sumeet Shetty | IT Architect"
             width={250}
             height={250}
           />
