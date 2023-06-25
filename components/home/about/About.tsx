@@ -20,6 +20,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
+            <p className={styles.aboutText}>
               My skills include Java, Spring, Hibernate, Google Cloud, AWS, DevOps. 
               I&apos;ve also worked with frontend technologies like Node.js, React, Three.js allowing me to build full-stack applications.
             </p>
