@@ -13,7 +13,7 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey! I&apos;m Sumeet Shetty, and I&apos;m a senior technical architect & software developer with close to 15 years of experience in application design, development and managing projects in all aspects of the software development lifecycle towards the delivery of successful business solutions.
+              Hey! I&apos;m Sumeet Shetty, and I&apos;m a senior IT architect & software developer with close to 15 years of experience in application design, development and managing projects in all aspects of the software development lifecycle towards the delivery of successful business solutions.
              <br/><br/>
               I have experience working in both monolithic & microservices architecture. I&apos;m passionate about designing solutions & implementing them providing great user experience.
              </p>
@@ -21,7 +21,7 @@ export const About = () => {
           <Reveal>
             <p className={styles.aboutText}>
               My skills include Java, Spring, Hibernate, Google Cloud, AWS, DevOps. 
-              I&apos;ve also worked with fronend technologies like Node.js, React, Three.js allowing me to build full-stack applications.
+              I&apos;ve also worked with frontend technologies like Node.js, React, Three.js allowing me to build full-stack applications.
             </p>
           </Reveal>
           <Reveal>
