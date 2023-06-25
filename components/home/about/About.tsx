@@ -13,7 +13,7 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey! I&apos;m Sumeet Shetty, and I&apos;m a senior IT architect & software developer with close to 15 years of experience in application design, development and managing projects in all aspects of the software development lifecycle towards the delivery of successful business solutions.
+              Hey! I&apos;m Sumeet Shetty, and I&apos;m a senior software developer & IT architect with close to 15 years of experience in application design, development and managing projects in all aspects of the software development lifecycle towards the delivery of successful business solutions.
              <br/><br/>
               I have experience working in both monolithic & microservices architecture. I&apos;m passionate about designing solutions & implementing them providing great user experience.
              </p>
