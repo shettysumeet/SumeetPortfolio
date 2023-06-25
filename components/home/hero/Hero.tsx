@@ -18,13 +18,13 @@ export const Hero = () => {
           </Reveal>
           <Reveal>
             <h2 className={styles.subTitle}>
-              I&apos;m a <span>IT Architect</span>
+              I&apos;m a <span>Senior Developer</span>
             </h2>
           </Reveal>
           <Reveal>
             <p className={styles.aboutCopy}>
               I&apos;ve spent the last 15 years building and scaling applications for
-              some pretty renowned companies and individuals. I also create interesting self projects on my spare time.
+              some renowned companies and individuals. I also create interesting self projects on my spare time.
               Let&apos;s connect!
             </p>
           </Reveal>
