@@ -12,21 +12,30 @@ export const Stats = () => {
             <span>Use at work</span>
           </h4>
           <div className={styles.statGrid}>
+            <span className="chip">Java</span>
+            <span className="chip">Spring</span>
+            <span className="chip">Kubernetes</span>
+            <span className="chip">Docker</span>
+            <span className="chip">Hibernate</span>
+            <span className="chip">Google Cloud</span>
+            <span className="chip">AWS</span>
+            <span className="chip">Jenkins</span>
+            <span className="chip">Terraform</span>
+            <span className="chip">Splunk</span>
+            <span className="chip">Grafana</span>
             <span className="chip">JavaScript</span>
-            <span className="chip">TypeScript</span>
-            <span className="chip">HTML</span>
-            <span className="chip">CSS</span>
-            <span className="chip">Tailwind</span>
-            <span className="chip">React</span>
-            <span className="chip">Nextjs</span>
-            <span className="chip">Vuejs</span>
-            <span className="chip">Redux</span>
-            <span className="chip">NodeJS</span>
-            <span className="chip">Express</span>
+            <span className="chip">Gradle</span>
+            <span className="chip">Maven</span>
+            <span className="chip">Git</span>
+            <span className="chip">GitLab</span>
+            <span className="chip">Junit/Mockito</span>
+            <span className="chip">Test Container</span>
+            <span className="chip">Swagger</span>
             <span className="chip">Postgres</span>
-            <span className="chip">MongoDB</span>
-            <span className="chip">Firebase</span>
-            <span className="chip">GitHub</span>
+            <span className="chip">UFT</span>
+            <span className="chip">Jira</span>
+            <span className="chip">AsciiDoc</span>
+            <span className="chip">Confluence</span>
           </div>
         </div>
       </Reveal>
@@ -37,17 +46,19 @@ export const Stats = () => {
             <span>Use for fun</span>
           </h4>
           <div className={styles.statGrid}>
-            <span className="chip">React Native</span>
-            <span className="chip">Gatsby</span>
-            <span className="chip">Chakra Ui</span>
-            <span className="chip">Tailwind</span>
+            <span className="chip">Python</span>
+            <span className="chip">React</span>
+            <span className="chip">ThreeJs</span>
+            <span className="chip">Blender</span>
+            <span className="chip">DLT/Blockchain</span>
+            <span className="chip">Ethereum</span>
+            <span className="chip">Solana</span>
             <span className="chip">Figma</span>
-            <span className="chip">Planetscale</span>
-            <span className="chip">GraphQL</span>
-            <span className="chip">Firebase</span>
-            <span className="chip">Supabase</span>
-            <span className="chip">Vercel</span>
-            <span className="chip">Laravel</span>
+            <span className="chip">Mid Journey</span>
+            <span className="chip">Processing</span>
+            <span className="chip">AI</span>
+            <span className="chip">ChatGPT</span>
+            <span className="chip">AutoGPT</span>
           </div>
         </div>
       </Reveal>

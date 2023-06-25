@@ -13,26 +13,26 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Howdy! I&apos;m Sumeet Shetty, and I&apos;m a Bachelor of Science in Information Technology graduate.
-              <br/><br/>
-              I have experience working in both the mobile and web development worlds, with a focus on frontend development. I&apos;m passionate about creating beautiful, responsive websites that provide a great user experience.
+              Hey! I&apos;m Sumeet Shetty, and I&apos;m a senior technical architect & software developer with close to 15 years of experience in application design, development and managing projects in all aspects of the software development lifecycle towards the delivery of successful business solutions.
+             <br/><br/>
+              I have experience working in both monolithic & microservices architecture. I&apos;m passionate about designing solutions & implementing them providing great user experience.
              </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              My skills include HTML, CSS, JavaScript, and various frontend frameworks like React and Vue.js. 
-              I&apos;ve also worked with backend technologies like Node.js, Firebase, MongoDB and PHP/Laravel , allowing me to build full-stack applications.
+              My skills include Java, Spring, Hibernate, Google Cloud, AWS, DevOps. 
+              I&apos;ve also worked with fronend technologies like Node.js, React, Three.js allowing me to build full-stack applications.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              When I&apos;m not coding, I enjoy digital painting. 
+              When I&apos;m not coding, I enjoy reading & experimenting with the latest trends in technology. 
               I believe that maintaining a healthy work-life balance is crucial for staying productive and motivated.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I&apos;m always looking for new challenges and opportunities to learn and grow as a developer. 
+              I&apos;m always looking for new challenges and opportunities to learn and grow. 
               If you&apos;re interested in working together or have any questions, please don&apos;t hesitate to get in touch!
               🔗
             </p>
