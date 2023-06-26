@@ -32,7 +32,7 @@ const projects = [
         </p>
         <p>
           The tech stack is based on React, Nextjs with the custom Styled components,
-          connected to Solana blockchain for minting NFTs using Metaplex & Arweave.
+          connected to Solana blockchain for minting NFTs using Metaplex & Candy Machine.
         </p>
       </>
     ),
