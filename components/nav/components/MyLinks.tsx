@@ -4,7 +4,8 @@ import {
   AiFillGithub,
   AiFillInstagram,
   AiFillYoutube,
-  AiFillSkype
+  AiFillSkype,
+  AiFillTwitterCircle
 } from "react-icons/ai";
 import Link from "next/link";
 import { motion } from "framer-motion";
@@ -47,8 +48,8 @@ export const MyLinks = () => {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.3 }}
       >
-        <Link href="https://www.instagram.com/sumeet_shetty/" target="_blank" rel="nofollow">
-          <AiFillInstagram size="2.4rem" />
+        <Link href="https://twitter.com/sumeetrshettyg1" target="_blank" rel="nofollow">
+          <AiFillTwitterCircle size="2.4rem" />
         </Link>
       </motion.span>
 
