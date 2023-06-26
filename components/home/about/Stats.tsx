@@ -49,6 +49,8 @@ export const Stats = () => {
             <span className="chip">Python</span>
             <span className="chip">React</span>
             <span className="chip">ThreeJs</span>
+            <span className="chip">Github</span>
+            <span className="chip">Vercel</span>
             <span className="chip">Blender</span>
             <span className="chip">DLT/Blockchain</span>
             <span className="chip">Ethereum</span>
