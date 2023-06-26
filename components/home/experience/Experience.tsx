@@ -103,6 +103,8 @@ const experience = [
     tech: [
       "Java",
       "Hibernate",
+      "JAX-RS",
+      "JAX-WS",
       "Javascript",
       "Weblogic",
       "IBM mq",
