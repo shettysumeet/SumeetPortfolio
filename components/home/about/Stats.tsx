@@ -59,6 +59,8 @@ export const Stats = () => {
             <span className="chip">AI</span>
             <span className="chip">ChatGPT</span>
             <span className="chip">AutoGPT</span>
+            <span className="chip">Vqgan+clip</span>
+            <span className="chip">Dalle2</span>
           </div>
         </div>
       </Reveal>
