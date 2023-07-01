@@ -18,9 +18,9 @@ export const Home = () => {
           <Heading />
           <Hero />
           <About />
-          <Projects />
           <Experience />
           <Certification />
+          <Projects />
           <Contact />
           <div
             style={{
